@@ -4,8 +4,8 @@
 	- O que é acessibilidade
  	- Tipos de necessidades específicas 	
 	- Por que é importante projetar sistemas acessíveis?
- 	- Benefícios de um sistema acessível
-    	- Quem é responsável pela acessibilidade de um sistema?  
+	- Benefícios de um sistema acessível
+	- Quem é responsável pela acessibilidade de um sistema?  
 - Árvore de acessibilidade
 - Níveis de conformidade WCAG
 - ARIA - Accessible Rich Internet Applications
