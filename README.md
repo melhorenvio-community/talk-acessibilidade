@@ -8,7 +8,8 @@
 	- Níveis de conformidade
 - eMag (helton)
 	- Nível de conformidade eMag
-- Problemas mais comuns encontrados na web (ambos)
+- Boa práticas (ambos)
+	- Problemas mais comuns encontrados na web e como evitá-los 
 	- Exemplos na plataforma do ME e como resolvê-los (exemplos antes x depois - imagens/vídeos/evidências)
 - Como testar? (ambos)
 	- Exemplos de ferramentas de teste manual e automatizado
